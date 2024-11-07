@@ -1,5 +1,6 @@
 # LITA-Power-Bi-Classwork
-This repository details my very enjoyable journey through all the LITA Power Bi lectures.
+This repository chronicles my enjoyable journey through all the LITA Power BI lectures with Mr TeeDee.
+## 
 
 ## Visuals
 ### Map
