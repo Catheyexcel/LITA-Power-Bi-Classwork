@@ -75,3 +75,13 @@ VISUALS SPECIFIC TO EACH DEPARTMENT
 ![HR Data 7B](https://github.com/user-attachments/assets/f4074bc5-63c1-4ce8-8db8-6388ec8869ce)
 
 
+**Links for Tools Download**
+1. Microsoft Excel [Download Microsoft Excel Here](https://www.microsoft.com)
+   
+2. Microsoft SQL Server [Download Microsoft SQL SSMS Here](https://www.microsoft.com)
+
+3. Microsoft Power Bi [Download Microsoft Power Bi Here](https://www.microsoft.com)
+
+
+
+
